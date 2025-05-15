@@ -1,0 +1,30 @@
+{
+    "Pass Font Color" : {
+        "type": "text",
+        "value": "white"
+    },
+    "Pass Cell Color" : {
+        "type": "text",
+        "value": "#00a65a"
+    },
+    "Fail Font Color" : {
+        "type": "text",
+        "value": "white"
+    },
+    "Fail Cell Color" : {
+        "type": "text",
+        "value": "#dd4b39"
+    },
+    "NA Font Color" : {
+        "type": "text",
+        "value": "white"
+    },
+    "NA Cell Color" : {
+        "type": "text",
+        "value": "#f39c12"
+    },
+    "Show Comments": {
+        "type": "text",
+        "value": "true"
+    }
+}

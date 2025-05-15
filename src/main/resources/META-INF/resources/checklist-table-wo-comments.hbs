@@ -1,0 +1,10 @@
+<table class="faction-checklist-table">
+	<thead>
+		<tr><th>Question</th><th>Status</th></tr>
+	</thead>
+	<tbody>
+{{#each}}
+		<tr><td>{{question}}</td><td style="background-color:{{background}}"><span style="color:{{color}}">{{status}}</span></td></tr>
+{{/each}}
+	</tbody>
+</table>
